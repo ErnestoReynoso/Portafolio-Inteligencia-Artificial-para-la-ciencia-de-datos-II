@@ -59,41 +59,38 @@
             <td rowspan="5">SMA0104C Análisis de información</td>
             <td>Trabaja con grandes volúmenes de datos</td>
             <td align="center">
-              <a href="https://github.com/sayuriGui/TC3007C.502/blob/main/Big%20Data/streaming_A01640092.dbc">- Streaming de datos</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Big%20Data/Momento%20de%20Retroalimentaci%C3%B3n%20M%C3%B3dulo%201%20Utilizaci%C3%B3n%2C%20procesamiento%20y%20visualizaci%C3%B3n%20de%20grandes%20vol%C3%BAmenes%20de%20datos%20(Portafolio%20An%C3%A1lisis))">- Momento de Retroalimentación</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/blob/main/Big%20Data/Procesamiento_y_utilizaci%C3%B3n_de_grandes_numeros_de_datos.ipynb">- Momento de Retroalimentación</a> <br>
             </td>
             <td rowspan="3">1. Big Data.</td>
         </tr>
         <tr>
             <td>Procesa grandes volúmenes de datos de manera eficiente</td>
             <td align="center">
-              <a href="https://github.com/sayuriGui/TC3007C.502/blob/main/Big%20Data/streaming_A01640092.dbc">- Streaming de datos</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Big%20Data/Momento%20de%20Retroalimentaci%C3%B3n%20M%C3%B3dulo%201%20Utilizaci%C3%B3n%2C%20procesamiento%20y%20visualizaci%C3%B3n%20de%20grandes%20vol%C3%BAmenes%20de%20datos%20(Portafolio%20An%C3%A1lisis))">- Momento de Retroalimentación</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/blob/main/Big%20Data/Procesamiento_y_utilizaci%C3%B3n_de_grandes_numeros_de_datos.ipynb">- Momento de Retroalimentación</a> <br>
             </td> 
         </tr>
         <tr>
             <td>Genera tableros útiles y correctos que apoyen a la toma de decisiones</td>
             <td align="center">
-              <a href="https://github.com/sayuriGui/TC3007C.502/blob/main/Big%20Data/streaming_A01640092.dbc">- Streaming de datos</a> <br>
-              <a href="https://github.com/sayuriGui/inteligencia-artificial/tree/main/Aprendizaje%20m%C3%A1quina%20(autom%C3%A1tico)/Problemas%20de%20clasificaci%C3%B3n](https://github.com/sayuriGui/TC3007C.502/tree/main/Big%20Data/Momento%20de%20Retroalimentaci%C3%B3n%20M%C3%B3dulo%201%20Utilizaci%C3%B3n%2C%20procesamiento%20y%20visualizaci%C3%B3n%20de%20grandes%20vol%C3%BAmenes%20de%20datos%20(Portafolio%20An%C3%A1lisis))">- Momento de Retroalimentación</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/blob/main/Big%20Data/A01640092_tiposComplejosCassandra.pdf">- Tipos complejos cassandra: set, list, map</a>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/blob/main/Big%20Data/Procesamiento_y_utilizaci%C3%B3n_de_grandes_numeros_de_datos.ipynb">- Momento de Retroalimentación</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/blob/main/Big%20Data/Tipos%20complejos%20Cassandra.PNG">- Tipos complejos cassandra: set, list, map</a>
             </td> 
         </tr>
         <tr>
             <td>Mide correctamente el desempeño del modelo y sus métricas son correctas</td>
             <td align="center">
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%201.%20Regresion%20lineal%20simpleMultiple">- Act 1. Regresion lineal simple/Multiple</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%202.%20Multicolinealidad">- Act 2. Multicolinealidad</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%203.%20Series%20de%20tiempo">- Act 3. Series de tiempo</a>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Regresion%20lineal%20simple%20y%20multiple">- Act 1. Regresion lineal simple/Multiple</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Multicolinealidad">- Act 2. Multicolinealidad</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Series%20de%20tiempo">- Act 3. Series de tiempo</a>
             </td> 
             <td rowspan="2">5. Estadística avanzada para la ciencia de datos.</td>
         </tr>
         <tr>
             <td>Interpreta los resultados de las predicciones de los modelos y los interpreta en el contexto del problema de manera correcta</td>
             <td align="center">
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%201.%20Regresion%20lineal%20simpleMultiple">- Act 1. Regresion lineal simple/Multiple</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%202.%20Multicolinealidad">- Act 2. Multicolinealidad</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%203.%20Series%20de%20tiempo">- Act 3. Series de tiempo</a>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Regresion%20lineal%20simple%20y%20multiple">- Act 1. Regresion lineal simple/Multiple</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Multicolinealidad">- Act 2. Multicolinealidad</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Series%20de%20tiempo">- Act 3. Series de tiempo</a>
             </td> 
         </tr>
         <tr>
@@ -132,82 +129,82 @@
             <td rowspan="4">SMA0401C Aprendizaje e IA</td>
             <td>Utiliza un framework para entrenar un modelo de aprendizaje profundo</td>
             <td align="center">
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20Redes%20Neuronales%20Profundas">- Actividad Redes Neuronales Profundas</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20en%20Clase%20Transfer%20Learning">- Actividad en Clase Transfer Learning</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20RNN">- Actividad RNN</a>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Deep%20Learning/Redes%20Neuronales%20Profundas">- Actividad Redes Neuronales Profundas</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Deep%20Learning/Transfer%20Learning">- Actividad en Clase Transfer Learning</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Deep%20Learning/Actividad%20RNN">- Actividad RNN</a>
             </td>
             <td rowspan="4">2. Técnicas y arquitecturas de deep learning.</td>
         </tr>
         <tr>
             <td>Evalúa el desempeño del modelo en su aproximación inicial y realiza ajustes para mejorar su desempeño</td>
             <td align="center">
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20Redes%20Neuronales%20Profundas">- Actividad Redes Neuronales Profundas</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20en%20Clase%20Transfer%20Learning">- Actividad en Clase Transfer Learning</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20RNN">- Actividad RNN</a>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Deep%20Learning/Redes%20Neuronales%20Profundas">- Actividad Redes Neuronales Profundas</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Deep%20Learning/Transfer%20Learning">- Actividad en Clase Transfer Learning</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Deep%20Learning/Actividad%20RNN">- Actividad RNN</a>
             </td> 
         </tr>
         <tr>
             <td>Utiliza un conjunto datos reales (no ejemplos de clase) para la creación del modelo</td>
             <td align="center">
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20Redes%20Neuronales%20Profundas">- Actividad Redes Neuronales Profundas</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20RNN">- Actividad RNN</a>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Deep%20Learning/Redes%20Neuronales%20Profundas">- Actividad Redes Neuronales Profundas</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Deep%20Learning/Actividad%20RNN">- Actividad RNN</a>
             </td> 
         </tr>
         <tr>
             <td>El modelo puede generar predicciones o recomendaciones a través de la consola o una interfaz</td>
             <td align="center">
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20Redes%20Neuronales%20Profundas">- Actividad Redes Neuronales Profundas</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20en%20Clase%20Transfer%20Learning">- Actividad en Clase Transfer Learning</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20RNN">- Actividad RNN</a>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Deep%20Learning/Redes%20Neuronales%20Profundas">- Actividad Redes Neuronales Profundas</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Deep%20Learning/Transfer%20Learning">- Actividad en Clase Transfer Learning</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Deep%20Learning/Actividad%20RNN">- Actividad RNN</a>
             </td>
         </tr>
         <tr>
             <td rowspan="3">SMA0402C Reconocimiento de patrones, lenguaje natural e IA.</td>
             <td>Puede integrar una interfaz de lenguaje natural escrito a una aplicación haciendo uso de APIs</td>
             <td align="center">
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/Actividad%20NLP%20-%201.0%20-%20Creaci%C3%B3n%20de%20Diccionario">- Actividad NLP - 1.0 - Creación de Diccionario</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/Actividad%20NLP%20-%202.0%20-%20Aplicaci%C3%B3n%20de%20an%C3%A1lisis%20de%20sentimientos">- Actividad NLP - 2.0 - Aplicación de análisis de sentimientos</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20RNN](https://github.com/sayuriGui/TC3007C.502/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/EntrenamientoTransformer)">- Entrenamiento de un transformer para Q&A</a>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/Creaci%C3%B3n%20de%20diccionario">- Actividad NLP - 1.0 - Creación de Diccionario</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/Aplicaci%C3%B3n%20de%20analisis%20de%20sentimientos">- Actividad NLP - 2.0 - Aplicación de análisis de sentimientos</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/blob/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/Entrenamiento%20de%20un%20Transformer/EntrenamientoTransformer.pdf">- Entrenamiento de un transformer para Q&A</a>
             </td>
             <td rowspan="3">3. Herramientas para el procesamiento del lenguaje natural</td>
         </tr>
         <tr>
             <td>Puede integrar una interfaz de lenguaje natural en audio o voz a una aplicación haciendo uso de APIs</td>
             <td align="center">
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural">- Herramientas para el procesamiento del lenguaje natural</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural">- Herramientas para el procesamiento del lenguaje natural</a> <br>
             </td>
         </tr>
         <tr>
             <td>Analiza un texto con herramientas de NLP para obtener información relevante: análisis de sentimientos, generación de texto, generación de audio, etc.</td>
             <td align="center">
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/Actividad%20NLP%20-%202.0%20-%20Aplicaci%C3%B3n%20de%20an%C3%A1lisis%20de%20sentimientos">- Actividad NLP - 2.0 - Aplicación de análisis de sentimientos</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20RNN](https://github.com/sayuriGui/TC3007C.502/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/EntrenamientoTransformer)">- Entrenamiento de un transformer para Q&A</a>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/Aplicaci%C3%B3n%20de%20analisis%20de%20sentimientos">- Actividad NLP - 2.0 - Aplicación de análisis de sentimientos</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/Entrenamiento%20de%20un%20Transformer">- Entrenamiento de un transformer para Q&A</a>
             </td>
         </tr>
         <tr>
             <td rowspan="3">SMA0101C Construcción de modelos</td>
             <td>Identifica correctamente si el problema a tratar requiere un modelo estocástico o determinista</td>
             <td align="center">
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%201.%20Regresion%20lineal%20simpleMultiple">- Act 1. Regresion lineal simple/Multiple</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%202.%20Multicolinealidad">- Act 2. Multicolinealidad</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%203.%20Series%20de%20tiempo">- Act 3. Series de tiempo</a>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Regresion%20lineal%20simple%20y%20multiple">- Act 1. Regresion lineal simple/Multiple</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Multicolinealidad">- Act 2. Multicolinealidad</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Series%20de%20tiempo">- Act 3. Series de tiempo</a>
             </td> 
             <td rowspan="3">5. Estadística avanzada para la ciencia de datos</td>
         </tr>
         <tr>
             <td>Selecciona el modelo adecuado al problema</td>
             <td align="center">
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%201.%20Regresion%20lineal%20simpleMultiple">- Act 1. Regresion lineal simple/Multiple</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%202.%20Multicolinealidad">- Act 2. Multicolinealidad</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%203.%20Series%20de%20tiempo">- Act 3. Series de tiempo</a>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Regresion%20lineal%20simple%20y%20multiple">- Act 1. Regresion lineal simple/Multiple</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Multicolinealidad">- Act 2. Multicolinealidad</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Series%20de%20tiempo">- Act 3. Series de tiempo</a>
             </td> 
         </tr>
         <tr>
             <td>Explica claramente las ventajas y desventajas del modelo seleccionado para este problema</td>
             <td align="center">
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%201.%20Regresion%20lineal%20simpleMultiple">- Act 1. Regresion lineal simple/Multiple</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%202.%20Multicolinealidad">- Act 2. Multicolinealidad</a> <br>
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%203.%20Series%20de%20tiempo">- Act 3. Series de tiempo</a>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Regresion%20lineal%20simple%20y%20multiple">- Act 1. Regresion lineal simple/Multiple</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Multicolinealidad">- Act 2. Multicolinealidad</a> <br>
+              <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Series%20de%20tiempo">- Act 3. Series de tiempo</a>
             </td> 
         </tr>
     </tbody>
