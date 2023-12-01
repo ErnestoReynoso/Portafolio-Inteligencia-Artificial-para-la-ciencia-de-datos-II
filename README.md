@@ -3,12 +3,12 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/sayuriGui/inteligencia-artificial.git">
+  <a href="https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_del_ITESM.svg" alt="Logo" width="80" height="80">
   </a>
 <h3 align="center">Inteligencia artificial avanzada para la ciencia de datos II</h3>
   <p align="center">
-        Tania Sayuri Guizado Hernández | A01640092 | Grupo 502
+        Ernesto Reynoso Lizárraga | A01639915 | Grupo 502
 </div>
 
 ### Construido con:
@@ -21,25 +21,24 @@
 </div>
 
 ## Big Data
-- [Streaming de datos](https://github.com/sayuriGui/TC3007C.502/blob/main/Big%20Data/streaming_A01640092.dbc)
-- [Momento de Retroalimentación: Módulo 1 Utilización, procesamiento y visualización de grandes volúmenes de datos (Portafolio Análisis)](https://github.com/sayuriGui/TC3007C.502/tree/main/Big%20Data/Momento%20de%20Retroalimentaci%C3%B3n%20M%C3%B3dulo%201%20Utilizaci%C3%B3n%2C%20procesamiento%20y%20visualizaci%C3%B3n%20de%20grandes%20vol%C3%BAmenes%20de%20datos%20(Portafolio%20An%C3%A1lisis)) 
-- [Tipos complejos cassandra: set, list, map](https://github.com/sayuriGui/TC3007C.502/blob/main/Big%20Data/A01640092_tiposComplejosCassandra.pdf) 
+- [Momento de Retroalimentación: Módulo 1 Utilización, procesamiento y visualización de grandes volúmenes de datos (Portafolio Análisis)](https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/blob/main/Big%20Data/Procesamiento_y_utilizaci%C3%B3n_de_grandes_numeros_de_datos.ipynb) 
+- [Tipos complejos cassandra: set, list, map](https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/blob/main/Big%20Data/Tipos%20complejos%20Cassandra.PNG) 
 
 
 ## Técnicas y arquitecturas de deep learning.
-- [Actividad Redes Neuronales Profundas ](https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20Redes%20Neuronales%20Profundas)
-- [Actividad en Clase Transfer Learning  ](https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20en%20Clase%20Transfer%20Learning)
-- [Actividad RNN](https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20RNN) 
+- [Actividad Redes Neuronales Profundas ](https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Deep%20Learning/Redes%20Neuronales%20Profundas)
+- [Actividad en Clase Transfer Learning  ](https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Deep%20Learning/Transfer%20Learning)
+- [Actividad RNN](https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Deep%20Learning/Actividad%20RNN) 
 
 ## Herramientas para el procesamiento del lenguaje natural
-- [Actividad NLP - 1.0 - Creación de Diccionario ](https://github.com/sayuriGui/TC3007C.502/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/Actividad%20NLP%20-%201.0%20-%20Creaci%C3%B3n%20de%20Diccionario)
-- [Actividad NLP - 2.0 - Aplicación de análisis de sentimientos  ](https://github.com/sayuriGui/TC3007C.502/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/Actividad%20NLP%20-%202.0%20-%20Aplicaci%C3%B3n%20de%20an%C3%A1lisis%20de%20sentimientos) 
-- [Entrenamiento de un transformer para Q&A](https://github.com/sayuriGui/TC3007C.502/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/EntrenamientoTransformer) 
+- [Actividad NLP - 1.0 - Creación de Diccionario ](https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/Creaci%C3%B3n%20de%20diccionario)
+- [Actividad NLP - 2.0 - Aplicación de análisis de sentimientos  ](https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/Aplicaci%C3%B3n%20de%20analisis%20de%20sentimientos) 
+- [Entrenamiento de un transformer para Q&A](https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/blob/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/Entrenamiento%20de%20un%20Transformer/EntrenamientoTransformer.pdf) 
 
 ## Estadística avanzada para la ciencia de datos
-- [Act 1. Regresion lineal simple/Multiple ](https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%201.%20Regresion%20lineal%20simpleMultiple)
-- [Act 2. Multicolinealidad  ](https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%202.%20Multicolinealidad) 
-- [Act 3. Series de tiempo](https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%203.%20Series%20de%20tiempo) 
+- [Act 1. Regresion lineal simple/Multiple ](https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Regresion%20lineal%20simple%20y%20multiple)
+- [Act 2. Multicolinealidad  ](https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Multicolinealidad) 
+- [Act 3. Series de tiempo](https://github.com/ErnestoReynoso/Portafolio-Inteligencia-Artificial-para-la-ciencia-de-datos-II/tree/main/Estadistica%20Avanzada/Series%20de%20tiempo) 
 
 
 ## Evidencia 1. Portafolio de análisis
