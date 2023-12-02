@@ -96,7 +96,9 @@
         <tr>
             <td rowspan="3">SEG0403B Resuelve situaciones...</td>
             <td>Verifica que los datos estén anonimizados para no violar normas o leyes de privacidad de la información</td>
-            <td>Si</td>
+            <td>
+              <a href="https://github.com/AlexGuzmn/Reto_AI_Period2">- Reto</a>
+            </td>
             <td rowspan="3">Reto</td>
         </tr>
         <tr>
