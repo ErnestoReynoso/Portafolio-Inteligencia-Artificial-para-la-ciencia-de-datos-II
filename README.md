@@ -101,11 +101,15 @@
         </tr>
         <tr>
             <td>Especifica el proceso o estándar a seguir para validar el manejo de los datos y garantizar que solo el equipo tenga acceso a ellos en cumplimiento con las normativas.</td>
-            <td>Si</td>
+            <td>
+              <a href="https://github.com/AlexGuzmn/Reto_AI_Period2">- Reto</a>
+            </td>
         </tr>
         <tr>
             <td>Presentar registros claros sobre el seguimiento de proceso y las autorizaciones para tener acceso a los datos</td>
-            <td>Si</td>
+            <td>
+              <a href="https://github.com/AlexGuzmn/Reto_AI_Period2">- Reto</a>
+            </td>
         </tr>
     </tbody>
 </table>
